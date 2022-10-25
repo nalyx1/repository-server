@@ -41,11 +41,11 @@ npm start
 
 ```
 
-## Client side code:
+## :computer: Client side code:
 
 O código para o client side está <a href="https://github.com/nalyx1/repository-web" target="_blank">nesse reposotório</a>.
 
-## Rodando na Web:
+## :globe_with_meridians: Rodando na Web:
 
 <a href="https://repository-web.herokuapp.com/" target="_blank">Clique aqui</a> para ver a versão final do projeto no seu navegador.
 
