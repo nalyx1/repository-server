@@ -43,11 +43,11 @@ npm start
 
 ## Client side code:
 
-O código para o client side está <a href="https://github.com/nalyx1/repository-web">nesse reposotório</a>.
+O código para o client side está <a href="https://github.com/nalyx1/repository-web" target="_blank">nesse reposotório</a>.
 
 ## Rodando na Web:
 
-<a href="https://repository-web.herokuapp.com/">Clique aqui</a> para ver a versão final do projeto no seu navegador.
+<a href="https://repository-web.herokuapp.com/" target="_blank">Clique aqui</a> para ver a versão final do projeto no seu navegador.
 
 <!-- ## :soon: Implementação futura
 * O que será implementado na próxima sprint? -->
